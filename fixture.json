@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "framework": "gatsby",
+  "sandbox": true,
+  "output_dir": "public",
+  "source_files": [
+    "package.json",
+    "gatsby-config.js",
+    "src/pages/index.jsx"
+  ],
+  "deploy_host": "github-pages",
+  "repository_prefix": "mlai-articles-fixture-"
+}
